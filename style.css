@@ -166,8 +166,9 @@ label {
 }
 
 #JK{
-    
-     width: 175px;
+     height: 478px;
+    width:682px;
     margin-bottom: 50px;
-    border-radius: 50%;
+    border-radius: 12%;    
+   
 }
