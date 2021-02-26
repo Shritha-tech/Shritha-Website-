@@ -152,12 +152,19 @@ label {
 
 #games{
   width: 100%;
-    height: 800px;
+    height: 500px;
     background-color:lightsteelblue;
 }
 
 #Chatbot{
       width: 100%;
-    height: 800px;
+    height: 500px;
     background-color:lightcyan;
+}
+
+.J.K Rowling img{
+    
+     width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
 }
