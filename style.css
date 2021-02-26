@@ -144,8 +144,8 @@ label {
 #D { transition: transform .2s; }
 #D:hover { transform: scale(0.9); }
 
-#J.K { transition: transform .2s; }
-#J.K:hover { transform: scale(0.9); }
+#JK { transition: transform .2s; }
+#JK:hover { transform: scale(0.9); }
 
 #app{
     width: 100%;
@@ -165,7 +165,7 @@ label {
     background-color:lightcyan;
 }
 
-#J.K{
+#JK{
     
      width: 175px;
     margin-bottom: 50px;
